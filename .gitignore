@@ -25,6 +25,10 @@
 *.log
 *.sql
 *.sqlite
+*.db
+
+# Database files
+mergington_school.db
 
 # OS generated files #
 ######################
